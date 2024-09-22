@@ -6,7 +6,7 @@ Given an integer array nums, return the length of its longest harmonious subsequ
 
 A subsequence of array is a sequence that can be derived from the array by deleting some or no elements without changing the order of the remaining elements.
 
- 
+
 
 Example 1:
 
